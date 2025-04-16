@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/AI%20Egineer/MLOPs/MLFlow-DVC-integration/mlruns/0/7136fc8fc8b34a8d8ab0caeec1c1f47d/artifacts
+end_time: 1744814337498
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7136fc8fc8b34a8d8ab0caeec1c1f47d
+run_name: bittersweet-fawn-362
+run_uuid: 7136fc8fc8b34a8d8ab0caeec1c1f47d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744814337452
+status: 3
+tags: []
+user_id: nagar

@@ -1,8 +1,9 @@
 artifact_uri: file:///F:/AI%20Egineer/MLOPs/MLFlow-DVC-integration/mlruns/0/06aa53c6752b46f39b4abff31effec19/artifacts
+deleted_time: 1744815296804
 end_time: 1744813398751
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 06aa53c6752b46f39b4abff31effec19
 run_name: rare-boar-508
 run_uuid: 06aa53c6752b46f39b4abff31effec19
