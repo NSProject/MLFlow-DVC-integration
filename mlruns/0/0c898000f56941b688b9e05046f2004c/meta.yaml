@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/AI%20Egineer/MLOPs/MLFlow-DVC-integration/mlruns/0/0c898000f56941b688b9e05046f2004c/artifacts
+end_time: 1744813458834
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0c898000f56941b688b9e05046f2004c
+run_name: worried-cat-577
+run_uuid: 0c898000f56941b688b9e05046f2004c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744813458794
+status: 3
+tags: []
+user_id: nagar
